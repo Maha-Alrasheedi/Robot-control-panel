@@ -10,7 +10,7 @@
 
 <img width="836" alt="image" src="https://github.com/user-attachments/assets/d5acfc89-9bb2-4fe5-9ab2-4ea0564af100">
 
--the voice will convert to text as you see in thr picture
+-the voice will convert to text as you see in the picture
 
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/ee0159ff-7b4a-46dc-8f4e-682f5298bd92">
 
