@@ -1,4 +1,5 @@
 #TASK 1 WEEK 4
+
 -my code is correct but I have problems in the output
 #MY SCRIPT
 --------------------------------------------------------
@@ -41,6 +42,12 @@ if __name__ == "__main__":
         print(f"ChatGPT response: {response}")
 -----------------------------------------------
 #OUTPUT
+
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/eb961df5-b61d-4744-80a5-fe4c5809d788">
+
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/5c1deaf2-291f-4a82-aa40-0aa5979020f9">
+
+
 
 
 
